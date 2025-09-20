@@ -1,8 +1,6 @@
 # Hi there 👋, I'm Turab Haider  
 
-🎓 I’m a **Software Engineering student** currently in my 5th semester.  
-💻 I’m learning **Full-Stack Development (MERN stack)**.  
-📊 I have a strong interest in **Data Science & AI**.  
+🎓 I’m a **Software Engineering student** currently in my 5th semester.   
 🌱 Passionate about building impactful applications and continuously improving my skills.  
 
 ---
