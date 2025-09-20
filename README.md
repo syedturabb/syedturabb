@@ -1,13 +1,13 @@
 # Hi there 👋, I'm Turab Haider  
 
-🎓 I’m a **Software Engineering student** currently in my 5th semester.   
+🎓 I’m a **Software Engineering student**.
 🌱 Passionate about building impactful applications and continuously improving my skills.  
 
 ---
 
 ## 🚀 My Roadmap  
 I’m focusing on building my foundation step by step:  
-1. **Full-Stack Development (MERN)** – Learning React, Node.js, Express, MongoDB  
+1. **Full-Stack Development** – Learning React, Node.js, Express, MongoDB  
 2. **Data Science & AI** – Exploring Python, Pandas, NumPy, Machine Learning  
 3. **Future Goals** – Combine development & AI to build intelligent systems  
 
