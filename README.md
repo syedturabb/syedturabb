@@ -1,22 +1,10 @@
-# Hi there 👋, I'm Turab Haider  
+I'm Turab, a Software Engineering student with a strong interest in technology and innovation.
 
-🎓 I’m a **Software Engineering student**.
-🌱 Passionate about building impactful applications and continuously improving my skills.  
+I’m currently learning Web Development and gaining practical experience through projects and continuous experimentation.
 
----
+Alongside this, I’m exploring new technologies and developing my skills in areas such as Data Science, Artificial Intelligence, and modern software development practices.
 
-## 🚀 My Roadmap  
-I’m focusing on building my foundation step by step:  
-1. **Full-Stack Development** – Learning React, Node.js, Express, MongoDB  
-2. **Data Science & AI** – Exploring Python, Pandas, NumPy, Machine Learning  
-3. **Future Goals** – Combine development & AI to build intelligent systems  
-
----
-
-## 🔧 Currently Exploring  
-- Frontend tools like React & Tailwind CSS  
-- Backend development with Node.js & Express  
-- Git & GitHub for collaboration and version control  
+I’m passionate about using technology to create efficient and intelligent solutions that solve real-world problems.
 
 ---
 ## 🛠️ Languages & Tools  
