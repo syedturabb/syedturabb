@@ -37,10 +37,8 @@ I’m focusing on building my foundation step by step:
 
 ---
 
-## 📊 GitHub Stats  
-![Turab's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedturabb&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedturabb&layout=compact&theme=radical)  
+## 📈 GitHub Activity Graph
+[![Turab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syedturabb&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
