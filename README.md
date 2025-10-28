@@ -36,9 +36,10 @@ I’m focusing on building my foundation step by step:
 </p>  
 
 ---
+## 🐼 GitInsight
 
-## 📈 GitHub Activity Graph
-[![Turab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syedturabb&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![YOUR_USERNAME's GitHub | Stats](https://github-readme-stats.vercel.app/api?username=syedturabb&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false)](https://github.com/YOUR_USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedturabb&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME)
 
 ---
 
