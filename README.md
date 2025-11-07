@@ -1,5 +1,5 @@
 ##  **Welcome**
-I'm **Turab**, a Software Engineering student with a strong interest in technology and innovation.
+I'm Turab, a Software Engineering student with a strong interest in technology and innovation.
 
 I’m currently learning Web Development and gaining practical experience through projects and continuous experimentation.
 
@@ -8,7 +8,7 @@ Alongside this, I’m exploring new technologies and developing my skills in are
 I’m passionate about using technology to create efficient and intelligent solutions that solve real-world problems.
 
 ---
-##  Languages & Tools  
+##  **Languages & Tools**  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C logo" />
