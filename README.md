@@ -25,14 +25,14 @@ I’m passionate about using technology to create efficient and intelligent solu
 </p>
 
 ---
-##  **GitInsight**
+##  GitInsight
 
 [![YOUR_USERNAME's GitHub | Stats](https://github-readme-stats.vercel.app/api?username=syedturabb&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false)](https://github.com/YOUR_USERNAME)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedturabb&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME)
 
 ---
 
-##  **Connect with Me**  
+##  Connect with Me 
 <p>
 <a href="mailto:turabhaiderpk@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
