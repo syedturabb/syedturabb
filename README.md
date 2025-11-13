@@ -3,7 +3,7 @@ I'm **Turab**, a Software Engineering student with a strong interest in technolo
 
 I’m currently learning Web Development and gaining practical experience through projects and continuous experimentation.
 
-Alongside this, I’m exploring new technologies and developing my skills in areas such as Data Science, Artificial Intelligence, and modern software development practices.
+Alongside this, I’m exploring new technologies and developing my skills in areas such as **Data Science**, Artificial Intelligence, and modern software development practices.
 
 I’m passionate about using technology to create efficient and intelligent solutions that solve real-world problems.
 
