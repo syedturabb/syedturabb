@@ -1,7 +1,7 @@
 ##  **Welcome**
 I'm Turab, a Software Engineering student with a strong interest in technology and innovation.
 
-I’m **currently** learning Web Development and gaining practical experience through projects and continuous experimentation.
+I’m currently learning Web Development and gaining practical experience through projects and continuous experimentation.
 
 Alongside this, I’m exploring new technologies and developing my skills in areas such as **Data Science**, Artificial Intelligence, and modern software development practices.
 
