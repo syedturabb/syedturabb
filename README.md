@@ -1,4 +1,4 @@
-##  **Welcome**
+##  Welcome
 I'm Turab, a Software Engineering student with a strong interest in technology and innovation.
 
 I’m currently learning Web Development and gaining practical experience through projects and continuous experimentation.
