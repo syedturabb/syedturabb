@@ -24,7 +24,7 @@ I am passionate about **Clean Code**, risk-based testing, and collaborating with
 * **AI & Automation Systems:** Expertise in validating AI-driven logic, high-volume API workflows, and automated content generation tools.
 * **LeadPilot AI:** Performed comprehensive QA audits, focusing on UI consistency, accessibility, and high-fidelity rendering.
 * **Content Management:** Experience testing planning tools like **ContentCalendar**, ensuring robust data integrity and user flow.
-* **API Excellence:** Advanced testing of backend architectures using **Postman** to ensure 100% endpoint reliability.
+* **API Excellence:** Advanced testing of backend architectures using **Postman** to ensure 100% endpoint reliability
 
 ---
 
